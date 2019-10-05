@@ -1,1 +1,7 @@
-깃 테스트 파일 입니다.
+git clone https://github.com/devhschoi/everycoding.git
+
+git add .
+
+git commit -m "첫번째 커밋"
+
+git push https://github.com/devhschoi/everycoding.git
